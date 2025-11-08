@@ -14,7 +14,7 @@ It focuses on determining:
 Unlike traditional VRPs where the fleet is fixed and returns to the depot, the **"open"** version means that vehicles **do not need to return to the depot** after completing their deliveries.
 
 #### 🔑 Key characteristics:
-- The fleet is **not predetermined** — you can choose from different vehicle types with varying costs and capacities.
+- The fleet is **not predetermined**, you can choose from different vehicle types with varying costs and capacities.
 - Each vehicle starts from the depot but **ends its route at the last customer**.
 - The **total cost** depends on:
   - The **distance (in kilometers)** traveled by each vehicle,
