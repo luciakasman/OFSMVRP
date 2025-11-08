@@ -22,8 +22,6 @@ class AvailableVehiclesData:
 
 @dataclass
 class Orders:
-    user_id: str
-    organization_id: str
     algorithm_type: str
     order_data: List[OrderData]
     available_vehicles: List[AvailableVehiclesData]
